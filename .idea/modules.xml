@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boletin1/boletin1.iml" filepath="$PROJECT_DIR$/boletin1/boletin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin2/boletin2.iml" filepath="$PROJECT_DIR$/boletin2/boletin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin2extra/boletin2extra.iml" filepath="$PROJECT_DIR$/boletin2extra/boletin2extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin3/boletin3.iml" filepath="$PROJECT_DIR$/boletin3/boletin3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin4/boletin4.iml" filepath="$PROJECT_DIR$/boletin4/boletin4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin5/boletin5.iml" filepath="$PROJECT_DIR$/boletin5/boletin5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prog.iml" filepath="$PROJECT_DIR$/prog.iml" />
+    </modules>
+  </component>
+</project>
